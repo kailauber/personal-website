@@ -1,18 +1,11 @@
 ---
 layout: ../../layouts/LayoutBlogPost.astro
-title: "Hello, World"
-description: "this is a post example"
-pubDate: 2023-01-21
-category: "intro"
+title: "Apprenticeship Milestone"
+description: "Reflecting on my apprenticeship stage."
+pubDate: 2024-02-09
+category: "apprenticeship"
 ---
 
-# Hi there!
+# Journey Through Apprenticeship
 
-This Markdown file creates a page at `your-domain.com/post1/`
-
-It probably isn't styled much, but Markdown does support:
-
-- **bold** and _italics._
-- lists
-- [links](https://astro.build)
-- and more!
+As I approach the final stages of my apprenticeship at Roche Diagnostics International AG, I'm filled with a sense of accomplishment and anticipation. These years have been a combination of learning, growth, and firsthand experience, shaping me into a professional ready for the challenges ahead. Stay tuned for more updates on this exciting journey!

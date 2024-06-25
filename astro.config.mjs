@@ -10,13 +10,13 @@ import { remarkReadingTime } from "./src/lib/ remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://kailauber.com/",
+  site: "https://personal.kailauber.com/",
   integrations: [
     sitemap(),
     robotsTxt({
       sitemap: [
-        "https://kailauber.com/sitemap-index.xml",
-        "https://kailauber.com/sitemap-0.xml",
+        "https://personal.kailauber.com/sitemap-index.xml",
+        "https://personal.kailauber.com/sitemap-0.xml",
       ],
     }),
     solidJs(),
